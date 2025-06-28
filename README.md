@@ -1,12 +1,32 @@
-# React + Vite
+# 🎮 Rockstar Landing Page (GTA Style)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A cinematic, interactive landing page inspired by **Grand Theft Auto**, built with **React**, **GSAP animations**, and styled using **Tailwind CSS**. Features a slick text mask reveal intro, smooth parallax motion, and a bold character pop-in — because subtle is overrated.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- ⚔️ GSAP-powered intro animation with text masking
+- 🎭 Layered parallax background + mouse movement interaction
+- 👩‍🎤 Character slide-in animation with entrance vibes
+- 📦 Responsive layout with Tailwind CSS
+- 🧪 Clean and modular React components
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧰 Tech Stack
+
+- [React.js](https://reactjs.org/)
+- [GSAP](https://greensock.com/gsap/)
+- [@gsap/react](https://www.npmjs.com/package/@gsap/react)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Remix Icons](https://remixicon.com/)
+
+---
+
+## 🔧 Installation & Setup
+
+1. **Clone the repo**  
+   ```bash
+   git clone https://github.com/shiftingparadigm/rockstar-landing.git
+   cd rockstar-landing
